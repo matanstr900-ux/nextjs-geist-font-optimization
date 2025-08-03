@@ -1,0 +1,8 @@
+{
+  "/export/page": "app/export/page.js",
+  "/forms/assemblies/page": "app/forms/assemblies/page.js",
+  "/forms/coloring/page": "app/forms/coloring/page.js",
+  "/forms/filling/page": "app/forms/filling/page.js",
+  "/forms/injections/page": "app/forms/injections/page.js",
+  "/page": "app/page.js"
+}
